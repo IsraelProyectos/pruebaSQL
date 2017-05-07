@@ -1,0 +1,22 @@
+C:\Users\Israel\AppData\Local\Temporary Projects\pruebaSQL\bin\Debug\pruebaSQL.exe.config
+C:\Users\Israel\AppData\Local\Temporary Projects\pruebaSQL\bin\Debug\pruebaSQL.exe
+C:\Users\Israel\AppData\Local\Temporary Projects\pruebaSQL\bin\Debug\pruebaSQL.pdb
+C:\Users\Israel\AppData\Local\Temporary Projects\pruebaSQL\bin\Debug\pruebaSQL.xml
+C:\Users\Israel\AppData\Local\Temporary Projects\pruebaSQL\obj\Debug\pruebaSQL.Form1.resources
+C:\Users\Israel\AppData\Local\Temporary Projects\pruebaSQL\obj\Debug\pruebaSQL.Resources.resources
+C:\Users\Israel\AppData\Local\Temporary Projects\pruebaSQL\obj\Debug\pruebaSQL.vbproj.GenerateResource.Cache
+C:\Users\Israel\AppData\Local\Temporary Projects\pruebaSQL\obj\Debug\pruebaSQL.exe
+C:\Users\Israel\AppData\Local\Temporary Projects\pruebaSQL\obj\Debug\pruebaSQL.xml
+C:\Users\Israel\AppData\Local\Temporary Projects\pruebaSQL\obj\Debug\pruebaSQL.pdb
+C:\Users\Israel\Documents\Visual Studio 2013\Projects\pruebaSQL\pruebaSQL\bin\Debug\pruebaSQL.exe.config
+C:\Users\Israel\Documents\Visual Studio 2013\Projects\pruebaSQL\pruebaSQL\obj\Debug\pruebaSQL.exe
+C:\Users\Israel\Documents\Visual Studio 2013\Projects\pruebaSQL\pruebaSQL\obj\Debug\pruebaSQL.xml
+C:\Users\Israel\Documents\Visual Studio 2013\Projects\pruebaSQL\pruebaSQL\obj\Debug\pruebaSQL.pdb
+C:\Users\Israel\Documents\Visual Studio 2013\Projects\pruebaSQL\pruebaSQL\bin\Debug\pruebaSQL.exe
+C:\Users\Israel\Documents\Visual Studio 2013\Projects\pruebaSQL\pruebaSQL\bin\Debug\pruebaSQL.pdb
+C:\Users\Israel\Documents\Visual Studio 2013\Projects\pruebaSQL\pruebaSQL\bin\Debug\pruebaSQL.xml
+C:\Users\Israel\Documents\Visual Studio 2013\Projects\pruebaSQL\pruebaSQL\obj\Debug\pruebaSQL.Form1.resources
+C:\Users\Israel\Documents\Visual Studio 2013\Projects\pruebaSQL\pruebaSQL\obj\Debug\pruebaSQL.Resources.resources
+C:\Users\Israel\Documents\Visual Studio 2013\Projects\pruebaSQL\pruebaSQL\obj\Debug\pruebaSQL.vbproj.GenerateResource.Cache
+C:\Users\Israel\Documents\Visual Studio 2013\Projects\pruebaSQL\pruebaSQL\obj\Debug\pruebaSQL.vbprojResolveAssemblyReference.cache
+C:\Users\Israel\Documents\Visual Studio 2013\Projects\pruebaSQL\pruebaSQL\obj\Debug\pruebaSQL.modificarDatos.resources
