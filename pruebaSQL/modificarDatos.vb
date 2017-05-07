@@ -35,8 +35,6 @@ Public Class modificarDatos
         End Using
     End Sub
 
-    //hola
-
     Public Sub insertarDatos()
         Using cn As New SqlConnection("Data Source=Israel-8;Initial Catalog=Prueba222222;Integrated Security=True"),
           command As New SqlCommand("pruebaInsertar", cn)
